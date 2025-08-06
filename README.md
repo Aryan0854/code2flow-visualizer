@@ -116,10 +116,6 @@ Traditional debugging tools show you *where* your code fails, but Code2Flow Visu
 └─────────────────┘
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file for details.
