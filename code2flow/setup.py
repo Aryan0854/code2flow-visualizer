@@ -11,11 +11,11 @@ setup(
     description="Real-Time Code Execution Visualizer for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/AryanMishra09/code2flow",
+    url="https://github.com/Aryan0854/code2flow-visualizer",
     project_urls={
-        "Repository": "https://github.com/AryanMishra09/code2flow",
-        "Bug Tracker": "https://github.com/AryanMishra09/code2flow/issues",
-        "Documentation": "https://github.com/AryanMishra09/code2flow#readme",
+        "Repository": "https://github.com/Aryan0854/code2flow-visualizer",
+        "Bug Tracker": "https://github.com/Aryan0854/code2flow-visualizer/issues",
+        "Documentation": "https://github.com/Aryan0854/code2flow-visualizer#readme",
     },
     packages=find_packages(),
     classifiers=[

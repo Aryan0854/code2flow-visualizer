@@ -104,7 +104,7 @@ If you encounter any issues:
 
 1. Make sure you have Python 3.8 or higher
 2. Try updating the package: `pip install --upgrade code2flow-visualizer`
-3. Check the [GitHub issues](https://github.com/AryanMishra09/code2flow/issues) for known problems
+3. Check the [GitHub issues](https://github.com/Aryan0854/code2flow-visualizer/issues) for known problems
 4. Report new bugs on the GitHub repository
 
 ## More Examples

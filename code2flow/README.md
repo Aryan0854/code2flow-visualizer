@@ -126,9 +126,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🙋‍♂️ Support
 
-- 🐛 [Report bugs](https://github.com/AryanMishra09/code2flow/issues)
-- 💡 [Request features](https://github.com/AryanMishra09/code2flow/issues)
-- 💬 [Join discussions](https://github.com/AryanMishra09/code2flow/discussions)
+- 🐛 [Report bugs](https://github.com/Aryan0854/code2flow-visualizer/issues)
+- 💡 [Request features](https://github.com/Aryan0854/code2flow-visualizer/issues)
+- 💬 [Join discussions](https://github.com/Aryan0854/code2flow-visualizer/discussions)
 
 ---
 
